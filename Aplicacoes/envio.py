@@ -55,7 +55,6 @@ try:
 	quantidade = int(input('[*]Quantidade de pessoas que vao receber os emails: '))
 except:
 	print('erro')
-#O naruto pode ser duro as vezes...
 #-----------------------------------------
 arquivo = open('emails.txt','r')
 emails = arquivo.read()

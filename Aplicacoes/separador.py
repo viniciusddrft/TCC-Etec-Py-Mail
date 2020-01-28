@@ -22,6 +22,5 @@ for linha in arq:
 print ("\nForam Retornados", contador, "emails")
 
 c = input('')
-#TCC BUNITO
 
 arq.close()
