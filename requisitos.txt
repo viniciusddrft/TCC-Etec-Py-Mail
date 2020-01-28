@@ -1,0 +1,3 @@
+é preciso ter o pacote xterm no seu sistema operacional
+
+e o tkinter
