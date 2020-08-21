@@ -1,3 +1,6 @@
+#FEITO APENAS PARA LINUX
+
+
 #Software desenvolvido por
 
 Vinicius Dadario de freitas
