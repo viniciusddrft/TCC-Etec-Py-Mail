@@ -13,4 +13,4 @@ jonathas Matheus Nunes Fraga
 
 Warley de Oliveira
 
-Py-mail é um software que busca e envio de emails na internet.
+Py-mail é um software que busca e envia emails na internet.
